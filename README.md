@@ -6,7 +6,7 @@ To use the virtual lab app, only an up-to-date web browser is required.
 
 To open and edit the source (.ejss) files, EjsS is required. EjsS can be downloaded for free from here: https://www.um.es/fem/EjsWiki/Main/Download
 
-To use the remote lab app, the Quanser Furuta pendulum device (https://www.quanser.com/products/qube-servo-2/), LabView (http://www.ni.com/en-us/shop/labview.html), the LabView control program (available in this same repository), the LabView RIP server (https://github.com/UNEDLabs/rip-labview-server), a Moodle 3.1+ server (https://download.moodle.org/) and the EJSApp plugin (https://github.com/UNEDLabs/moodle-mod_ejsapp) are needed. All these things, except for the Quanser device and LabView, can be obtained for free.
+To use the remote lab app, the Quanser Furuta pendulum device (https://www.quanser.com/products/qube-servo-2/), LabView (http://www.ni.com/en-us/shop/labview.html), the LabView control program (available in the LV folder in this same repository), the LabView RIP server (https://github.com/UNEDLabs/rip-labview-server), a Moodle 3.1+ server (https://download.moodle.org/) and the EJSApp plugin (https://github.com/UNEDLabs/moodle-mod_ejsapp) are needed. All these things, except for the Quanser device and LabView, can be obtained for free.
 
 For use and installation of each component, please visit their corresponding webpages.
 
